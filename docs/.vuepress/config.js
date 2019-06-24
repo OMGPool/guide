@@ -1,8 +1,9 @@
 module.exports = {
-  title: 'OMG Network',
+  title: 'OMG Network Guide',
   description: 'A scaling solution for finance on Ethereum',
   base: '/guide/',
   themeConfig: {
+    logo: '/logo.png',
     sidebar: {
       // '/deep-dive/': [
       //   'dex',

@@ -15,9 +15,8 @@ module.exports = {
       // ],
       '/resources/': [
         'videos',
-        'links',
         'glossary',
-        'amas',
+        'links',
       ],
       '/': [
         {
@@ -55,9 +54,8 @@ module.exports = {
         text: 'Resources',
         items: [
           { text: 'Videos', link: '/resources/videos' },
-          { text: 'Links', link: '/resources/links' },
           { text: 'Glossary', link: '/resources/glossary' },
-          { text: 'AMAs', link: '/resources/amas' },
+          { text: 'Links', link: '/resources/links' },
         ]
       },
       { text: 'Contribute', link: '/contribute' },

@@ -1,0 +1,28 @@
+# AMAs
+
+The OmiseGO team answers AMAs on [Reddit]() on a weekly basis. Here are the archives, 
+
+- [#1 - May 30, 2018](https://www.reddit.com/r/omise_go/comments/8l26cg/official_question_thread_for_omisego_ama_1/)
+- [#2 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)
+- [#3 - October 29, 2018](https://www.reddit.com/r/omise_go/comments/9sag1u/omisego_ama_3_october_29_2018/)
+- [#4 - November 5, 2018](https://www.reddit.com/r/omise_go/comments/9ubemn/omisego_ama_4_november_5_2018/)
+- [#5 - November 12, 2018](https://www.reddit.com/r/omise_go/comments/9wbfxe/omisego_ama_5_november_12_2018/)
+- [#6 - November 18, 2018](https://www.reddit.com/r/omise_go/comments/9y464i/omisego_ama_6_november_18_2018/)
+- [#7 - November 23, 2018](https://www.reddit.com/r/omise_go/comments/9zuwfc/omisego_ama_7_november_23_2018/)
+- [#8 - November 30, 2018](https://www.reddit.com/r/omise_go/comments/a1yzns/omisego_ama_8_november_30_2018/)  
+- [#9 - December 7, 2018](https://www.reddit.com/r/omise_go/comments/a47365/omisego_ama_9_december_7_2018/)
+- [#10 -December 14, 2018 ](https://www.reddit.com/r/omise_go/comments/a6cpcw/omisego_ama_10_december_14_2018/)
+- [#11 - January 11, 2019](https://www.reddit.com/r/omise_go/comments/a8jnpf/omisego_ama_11_january_11_2019/)
+- [#12 - January 18, 2019](https://www.reddit.com/r/omise_go/comments/af715o/omisego_ama_12_january_18_2019/)
+- [#13 - January 27, 2019](https://www.reddit.com/r/omise_go/comments/ahtf13/omisego_ama_13_january_27_2019/)
+- [#14 - February 3, 2019](https://www.reddit.com/r/omise_go/comments/aki87n/omisego_ama_14_february_3_2019/)
+- [#15 - February 10, 2019](https://www.reddit.com/r/omise_go/comments/amxl2e/omisego_ama_15_february_10_2019/)
+- [#16 - February 17, 2019](https://www.reddit.com/r/omise_go/comments/apertx/omisego_ama_16_february_17_2019/)
+- [#17 - Feburary 24, 2019](https://www.reddit.com/r/omise_go/comments/arw0et/omisego_ama_17_february_24_2019/)
+- [#18 - March 3, 2019](https://www.reddit.com/r/omise_go/comments/auj7jh/omisego_ama_18_march_3_2019/)
+- [#19 - March 10, 2019](https://www.reddit.com/r/omise_go/comments/ax5uc7/omisego_ama_19_march_10_2019/)
+- [#20 - March 31, 2019](https://www.reddit.com/r/omise_go/comments/b2fjqg/omisego_ama_20_march_31_2019/)
+- [#21 - April 14, 2019](https://www.reddit.com/r/omise_go/comments/b8st96/omisego_ama_21_april_14_2019/)
+- [#22 - April 28, 2019](https://www.reddit.com/r/omise_go/comments/bcnmud/omisego_ama_22_april_28_2019/)
+- [#23 - Hoard Exchange](https://www.reddit.com/r/omise_go/comments/bji6pt/omisego_ama_23_hoard_exchange/)
+- [#24 - AMA with with Kasima, OmiseGO CTO](https://www.reddit.com/r/omise_go/comments/c1tv6u/omisego_ama_24_with_with_kasima_omisego_cto/)

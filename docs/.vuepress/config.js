@@ -59,6 +59,7 @@ module.exports = {
         ]
       },
       { text: 'Contribute', link: '/contribute' },
+      { text: 'OMG Staking Pool', link: 'https://omgpool.org' },
     ],
     docsDir: 'docs',
     editLinks: true,

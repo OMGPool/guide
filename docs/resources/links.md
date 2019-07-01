@@ -11,18 +11,15 @@
 * [Progress tracker](https://github.com/buildOMG/tracker/projects/1) 
 * OmiseGO [website](https://omisego.network/)
 * OmiseGO [search](https://search.omisego.network)
-* [Chat](https://gitter.im/omisego/Lobby) to the OmiseGO teams!
 
 ## OmiseGO ODP (Open Developers Program)
 
-* Join the [OmiseGO Developers Program](https://developer.omisego.co)
-* [Chat](https://gitter.im/omisego/omisego-odp) to the ODP team!
+* Join the [OmiseGO Developers Program](https://developer.omisego.co) to contribute or talk to the teams!
 
 ## eWallet Suite
 
 * OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/blob/master/assets/provider_setup.jpg) repository
 * Initial [public demonstration](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/%C2%A0) of the eWallet
-* [Chat](https://gitter.im/omisego/ewallet) to the eWallet team!
 
 ## Plasma
 
@@ -38,7 +35,6 @@
 
 * [DEX Update](https://blog.omisego.network/omg-dex-update-6245812a7b2d) blog
 * [OMG DEX Design](https://github.com/omisego/elixir-omg/blob/develop/docs/dex_design.md)
-* [Chat](https://gitter.im/omisego/elixir-omg) to the Elixir-omg team!
 
 ## OMG's Proof of Stake Consensus Mechanism
 

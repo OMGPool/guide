@@ -132,7 +132,7 @@ But, everyone has a smartphone and many companies have started building “e-wal
 
 Another well-known example is the Starbucks app, although dealing with cards, it’s an example of a wallet application that money goes into but cannot get out of besides paying for coffee.
 
-These apps all exist on a “closed loop” payment infrastructure. We want to open up these wallet siloes and have wallets exchange with each other. We believe this will make users happy and increase merchant volume.
+These apps all exist on a “closed loop” payment infrastructure. OmiseGO wants to open up these wallet siloes and have wallets exchange with each other. They believe this will make users happy and increase merchant volume.
 
 ### What is Cash in/out?
 

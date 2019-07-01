@@ -26,48 +26,59 @@ The integration libraries are another tool to help developers easily build on OM
 
 ### eWallet Suite
 
-* eWallet 1.0.0 has been released and is open-source and publicly available, with version 1.1 [in the pipeline](https://github.com/omisego/ewallet/milestone/2). In the current iteration, issuers can mint and send tokens within a local ledger.
+* eWallet 1.0.0 has been released and is open-source and publicly available, with version 2.0 [in the pipeline](https://github.com/omisego/ewallet/milestone/5) where the eWallet will be integrated with Ethereum.
+* In the current iteration, issuers can mint and send tokens within a local ledger.
 * iOS, Android and Ruby SDKs are in place
-* Merchant and client side Point of Sale applications are being developed for iOS and Android.
+* Merchant and client side Point of Sale applications have been developed for iOS and Android
+* An Admin Panel is available for merchants
 
 ### Integration Libraries
 
 * Demo applications are being integrated on internal testnet
 * JavaScript (chosen as the first because it's the most widely used) library is up and running.
 
-Devcon4 will be a bit of a coming out party for the integration library — friends from another project have built an app that marks the first full stack integration, running on our internal testnet, which will be available for people to play with during the conference.
+### Coming Up in v 2.0
 
-### Coming Up
-
+* Ethereum Integration / Integrate Potterhat into eWallet
 * Integration libraries for other languages and frameworks, starting with elixir
-* Blockchain integration for the eWallet beginning with v1.2
+* Support of 2FA in the Admin Panel
+* Secure store for private keys
+* Blockchain Transaction Details
+* Blockchain Network Statistics
+* Advanced Filtering for transactions
+
 
 ### Bi-weekly updates
 
-* [#1 - The "Wendy, I'm home" edition (July 7, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-1)
-* [#2 - The "Take the ring to Mordor" edition (July 13, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-2)
-* [#3 - The "Genius Billionaire Playboy Philanthropist" edition (July 20, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-3)
-* [#4 - The "May The Force Be With You" edition (July 27, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-4)
-* [#5 - The "All it takes is a little push" edition (August 3, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-5)
-* [#6 - The "Madness? This. Is. Sparta!" edition (August 18, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-6)
-* [#7 - The "So where would you rather die? Here? Or in a Jaeger?" edition (September 3, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-7)
-* [#8 - The "What we do in life echoes in eternity" edition (September 17, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-8)
-* [#9 - The "Mr. Stark? I don't feel so good..." edition (October 15, 2018)  
-](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-9)
-* [#10 - The "And my axe!" edition (October 29, 2018)](https://kb.omgcommunity.org/deep-dive/ewallet-suite/current-state/ewallet-update-10)
-
+- [eWallet Update 01](https://search.omisego.network/articles/2611013-ewallet-update-01) - the "Reddit Edition: Nearly There!" edition
+- [eWallet Update 02](https://search.omisego.network/articles/2611015-ewallet-update-02) - the "Wendy, I'm home" edition
+- [eWallet Update 03](https://search.omisego.network/articles/2776778-ewallet-update-03) - the "Take the ring to Mordor" edition
+- [eWallet Update 04](https://search.omisego.network/articles/2776777-ewallet-update-04) - the "Genius Billionaire Playboy Philanthropist" edition
+- [eWallet Update 05](https://search.omisego.network/articles/2776776-ewallet-update-05) - the "May The Force Be With You" edition
+- [eWallet Update 06](https://search.omisego.network/articles/2776774-ewallet-update-06) - the "All it takes is a little push" edition
+- [eWallet Update 07](https://search.omisego.network/articles/2776773-ewallet-update-07) - the "Madness? This. Is. Sparta!" edition
+- [eWallet Update 08](https://search.omisego.network/articles/2776770-ewallet-update-08) - the "So where would you rather die? here? or in a Jaeger?" edition
+- [eWallet Update 09](https://search.omisego.network/articles/2776768-ewallet-update-09) - the "What we do in life echoes in eternity" edition
+- [eWallet Update 10](https://search.omisego.network/articles/2776767-ewallet-update-10) - the "Mr. Stark? I don't feel so good..." edition
+- [eWallet Update 11](https://search.omisego.network/articles/2776766-ewallet-update-11) - the "And my axe!" edition
+- [eWallet Update 12](https://search.omisego.network/articles/2776765-ewallet-update-12) - the "The Light That Burns Twice As Bright" edition
+- [eWallet Update 13](https://search.omisego.network/articles/2776762-ewallet-update-13) - the "It does not do to dwell on dreams and forget to live" edition
+- [eWallet Update 14](https://search.omisego.network/articles/2776761-ewallet-update-14) - the "Oh captain, my captain" edition
+- [eWallet Update 15](https://search.omisego.network/articles/2776759-ewallet-update-15) - the "As long as you can still grab a breath, you fight. You breathe...keep breathing." edition
+- [eWallet Update 16](https://search.omisego.network/articles/2776758-ewallet-update-16) - the "You Either Die A Hero, Or You Live Long Enough To See Yourself Become The Villain" edition
+- [eWallet Update 17](https://search.omisego.network/articles/2776757-ewallet-update-17) - the "Is That Your Two Cents Worth, Worth?" edition
+- [eWallet Update 18](https://search.omisego.network/articles/2776754-ewallet-update-18) - the "We're Vikings, it's an occupational hazard" edition
+- [eWallet Update 19](https://search.omisego.network/articles/2783382-ewallet-update-19) - the "Does This Spark Joy?" edition
+- [eWallet Update 20](https://search.omisego.network/articles/2846948-ewallet-update-20) - the "Last time I trusted someone, I lost an eye" edition
+- [eWallet Update 21](https://search.omisego.network/articles/3029570-ewallet-update-21) - the "Wednesdays we wear orange-red" edition
+- [eWallet Update 22](https://search.omisego.network/articles/3029571-ewallet-update-22) - the "What do you call a three humped camel?" edition
+- [eWallet Update 23](https://search.omisego.network/articles/3029574-ewallet-update-23) - the "I love you 3000" edition
+- [Integration Team Update 24](https://search.omisego.network/articles/3029577-integration-team-update-24) - the "I could stop whenever I want. These are just choices." edition
+- [Integration Team Update 25](https://search.omisego.network/articles/3029579-integration-team-update-25) - the "Si vis pacem, para bellum" edition
+- [Integration Team Update 26](https://search.omisego.network/articles/3054395-integration-team-update-26) - the "If you don't have anything, you have to act like you own everything" edition
 
 ## Resources
 
 * OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/blob/master/assets/provider_setup.jpg)repository
 * Initial [public demonstration](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/%C2%A0) of the eWallet
-* [Waffle board](https://waffle.io/omisego/ewallet)
 * [Chat](https://gitter.im/omisego/ewallet) to the eWallet team!

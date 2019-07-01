@@ -38,31 +38,46 @@ Introduces checkpointing from the plasma chain to the root chain, which allows f
 A proposal for enabling partial balances (spending only part of the value of a non-fungible token) in a Plasma Cash construction by making every token a payment channel between the user and the chain operator.
 [Learn more](https://ethresear.ch/t/plasma-debit-arbitrary-denomination-payments-in-plasma-cash/2198)
 
+### Plasma Prime
 
-## Current state
+Plasma Prime is a new [design proposal](https://ethresear.ch/t/plasma-prime-design-proposal/4222) that makes use of RSA accumulators to solve the problem of large history proofs in Plasma Cash. Unfortunately there aren’t any good and cohesive documents that explain Plasma Prime (yet). The [implementers call](https://www.youtube.com/watch?v=YjTF05SeYxo&feature=youtu.be&t=68) is likely the best high-level overview of Plasma Prime to date.
+
+## Current state for OMG Network
 
 [Tesuji Plasma](https://github.com/omisego/elixir-omg/blob/develop/docs/tesuji_blockchain_design.md) is the first iteration of OmiseGO plasma-based implementation. The design is based on Minimal Viable Plasma. Tesuji is currently on our internal testnet. Audits are in progress with Quantstamp and Synthetic Minds — those audits have already proved useful as we've received and reacted to some preliminary feedback. The internal testnet is an MVP implementation.
 
 ### Bi-weekly updates
 
-* [#1 - August 9, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-1)  
-
-* [#2 - August 27, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-2)  
-
-* [#3 - September 10, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-3)  
-
-* [#4 - September 25, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-4)  
-
-* [#5 - October 8, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-5)  
-
-* [#6 - October 22, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-6) 
-* [#7 - November 5, 2018](https://kb.omgcommunity.org/contents/deep-dive/plasma/current-state/plasma-update-7)
-
+* [Plasma Production Update 01](https://search.omisego.network/articles/2611004-plasma-production-update-01)
+* [Plasma Production Update 02](https://search.omisego.network/articles/2611010-plasma-production-update-02)
+* [Plasma Production Update 03](https://search.omisego.network/articles/2776801-plasma-production-update-03)
+* [Plasma Production Update 04](https://search.omisego.network/articles/2776800-plasma-production-update-04)
+* [Plasma Production Update 05](https://search.omisego.network/articles/2776799-plasma-production-update-05)
+* [Plasma Production Update 06](https://search.omisego.network/articles/2776798-plasma-production-update-06)
+* [Plasma Production Update 07](https://search.omisego.network/articles/2776796-plasma-production-update-07)
+* [Plasma Production Update 08](https://search.omisego.network/articles/2776795-plasma-production-update-08)
+* [Plasma Production Update 09](https://search.omisego.network/articles/2776794-plasma-production-update-09)
+* [Plasma Production Update 10](https://search.omisego.network/articles/2776792-plasma-production-update-10)
+* [Plasma Production Update 11](https://search.omisego.network/articles/2776791-plasma-production-update-11)
+* [Plasma Production Update 12](https://search.omisego.network/articles/2776787-plasma-production-update-12)
+* [Plasma Production Update 13](https://search.omisego.network/articles/2776785-plasma-production-update-13)
+* [Plasma Production Update 14](https://search.omisego.network/articles/2776784-plasma-production-update-14)
+* [Plasma Production Update 15](https://search.omisego.network/articles/2818065-plasma-production-update-15)
+* [Plasma Production Update 16](https://search.omisego.network/articles/2846951-plasma-production-update-16)
+* [Plasma Production Update 17](https://search.omisego.network/articles/3029565-plasma-production-update-17)
+* [Plasma Production Update 18](https://search.omisego.network/articles/3029566-plasma-production-update-18)
+* [Plasma Production Update 19](https://search.omisego.network/articles/3029567-plasma-production-update-19)
+* [Plasma Production Update 20](https://search.omisego.network/articles/3029568-plasma-production-update-20)
+* [Plasma Production Update 21](https://search.omisego.network/articles/3042019-plasma-production-update-21)
+* [Plasma Production Update 22](https://search.omisego.network/articles/3077878-plasma-production-update-22)
 
 ## Resources
 
 For more on Plasma, see these excellent community-produced resources :
 
+* [Plasma Group](https://plasma.group/), an open group of Plasma researchers dedicated to the creation of an open plasma implementation for the greater Ethereum community
+* [Introducing Plasma Group](https://medium.com/plasma-group/deployplasma-dd1cf0b2ab55)
+* Plasma Group's [Simple Plasma Specification](https://medium.com/plasma-group/plasma-spec-9d98d0f2fccf)
 * [Learn Plasma](https://www.learnplasma.org/), a community-led education initiative
 * [What is Plasma? Plasma Cash?](https://medium.com/crypto-economics/what-is-plasma-plasma-cash-6fbbef784a) by Jinglan Wang
 * This [primer](https://media.consensys.net/the-state-of-plasma-1-6b48c1e4b295) from Consensys

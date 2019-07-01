@@ -26,7 +26,7 @@ The integration libraries are another tool to help developers easily build on OM
 
 ### eWallet Suite
 
-* eWallet 1.0.0 has been released and is open-source and publicly available, with version 2.0 [in the pipeline](https://github.com/omisego/ewallet/milestone/5) where the eWallet will be integrated with Ethereum.
+* eWallet 1.0.0 has been released (current minor: 1.1) and is open-source and publicly available, with version 2.0 [in the pipeline](https://github.com/omisego/ewallet/milestone/5) where the eWallet will be integrated with Ethereum.
 * In the current iteration, issuers can mint and send tokens within a local ledger.
 * iOS, Android and Ruby SDKs are in place
 * Merchant and client side Point of Sale applications have been developed for iOS and Android

@@ -33,21 +33,16 @@ MakerDAO is an Ethereum stability platform comprised of a stablecoin, a governan
 
 Status is an Ethereum light client designed to bring the benefits of the Blockchain to everyday smartphone users. [Source](https://blog.status.im/status-partners-with-omisego-565577d2f72)
 
-**MVL**
+### Strategic Investors
 
-MVL is the mobility blockchain protocol behind TADA, Singapore’s first blockchain ride-hailing service. [Source](https://mvlchain.io/blog?path=https://blog2.mvlchain.io/index.php/2018/11/14/2668/)
-
-### OMG SDK Deployments
-
-**ElectrifyAsia**
-
-ELECTRIFY is developing an Asia-centric energy ecosystem that runs on the blockchain. 
-[Source](https://electrify.asia/faqs/)
-
-**HubrisOne**
-
-HubrisOne is a cryptocurrency friendly digital bank.
-[Source](https://medium.com/@hubrisone/hubrisone-omisego-partnership-f0def0acd3ff)
+* SBI Investment
+* SMDV
+* SMBC Sumitomo Mitsui Banking Corporation
+* Golden Gate Ventures
+* Ascend Capital
+* lastVentures
+* KRUNGSRI Finnovate
+* 500 startups
 
 ### MOUs
 

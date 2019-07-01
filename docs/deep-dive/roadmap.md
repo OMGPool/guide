@@ -3,7 +3,7 @@
 ## Official updates
 
 * [OmiseGO Roadmap v.1](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
-* [OmiseGO Roadmap Update](https://blog.omisego.network/omisego-roadmap-update-94819e20ada2)
+* [OmiseGO Roadmap Update (v.2)](https://blog.omisego.network/omisego-roadmap-update-94819e20ada2)
 * [State of the OMG Ecosystem](https://blog.omisego.network/state-of-the-omg-ecosystem-75260c71a053)
 
 ## Tengen : the end game

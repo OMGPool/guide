@@ -44,6 +44,8 @@ Status is an Ethereum light client designed to bring the benefits of the Blockch
 * KRUNGSRI Finnovate
 * 500 startups
 
+[Source](https://omisego.network/)
+
 ### MOUs
 
 **Shinhan Bank** (OmiseGO)

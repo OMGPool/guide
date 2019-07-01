@@ -58,9 +58,9 @@ sidebar: auto
 
 ### Resources
 
-* OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/blob/master/assets/provider_setup.jpg) repository
+* OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/) repository
 * Initial [public demonstration](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/%C2%A0) of the eWallet
-* [Chat](https://gitter.im/omisego/ewallet) to the eWallet team!
+* Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
 
 ## Plasma
@@ -114,7 +114,7 @@ OMG's DEX layer provides the back end for easy exchange between digital assets o
 
 * [OMG DEX Update](https://blog.omisego.network/omg-dex-update-6245812a7b2d) *OmiseGO's blog post*
 * [OMG DEX Design](https://github.com/omisego/elixir-omg/blob/develop/docs/dex_design.md) *Technical documentation*
-
+* Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
 ## Proof of Stake Consensus Mechanism
 
@@ -123,6 +123,7 @@ OMG's DEX layer provides the back end for easy exchange between digital assets o
 * [Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
 * [Minimal Slashing Conditions](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
 * [OMG Network Validation](https://blog.omisego.network/omg-network-validation-f935523086db) blog post
+* Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
 ## Cash in/out
 

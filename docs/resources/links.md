@@ -1,8 +1,24 @@
 # Links
 
+## OMG Network General
+
+* [Block Explorer](http://quest.samrong.omg.network/) to the OMG Network v0.2 (Samrong)
+* [Block Explorer](http://quest.omg.network/) to the OMG Network v0.1 (Ari) - deprecated
+* Stack [API Specification](https://developer.omisego.co/elixir-omg/)
+* [Network Connection Details](https://github.com/omisego/dev-portal/blob/master/guides/network_endpoints.md) 
+* [Roadmap](https://blog.omisego.network/omisego-roadmap-update-25075416d6f1)
+* [Progress tracker](https://github.com/buildOMG/tracker/projects/1) 
+* OmiseGO [website](https://omisego.network/)
+* [Chat](https://gitter.im/omisego/Lobby) to the OmiseGO teams!
+
+## OmiseGO ODP (Open Developers Program)
+
+* Join the [OmiseGO Developers Program](https://developer.omisego.co)
+* [Chat](https://gitter.im/omisego/omisego-odp) to the ODP team!
+
 ## eWallet Suite
 
-* OmiseGO [eWallet GitHub ](https://github.com/omisego/ewallet/blob/master/assets/provider_setup.jpg)repository
+* OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/blob/master/assets/provider_setup.jpg)repository
 * Initial [public demonstration](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/%C2%A0) of the eWallet
 * [Chat](https://gitter.im/omisego/ewallet) to the eWallet team!
 
@@ -20,6 +36,7 @@
 
 * [DEX Update](https://blog.omisego.network/omg-dex-update-6245812a7b2d) blog
 * [OMG DEX Design](https://github.com/omisego/elixir-omg/blob/develop/docs/dex_design.md)
+* [Chat](https://gitter.im/omisego/elixir-omg) to the Elixir-omg team!
 
 ## OMG's Proof of Stake Consensus Mechanism
 
@@ -29,7 +46,7 @@
 
 ## AMAs
 
-The OmiseGO team answers AMAs on [Reddit](https://www.reddit.com/r/omise_go/) on a weekly basis. Here are the archives,
+The OmiseGO team answers AMAs on [Reddit](https://www.reddit.com/r/omise_go/) on a weekly basis. 
 
 - [#1 - May 30, 2018](https://www.reddit.com/r/omise_go/comments/8l26cg/official_question_thread_for_omisego_ama_1/)
 - [#2 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)
@@ -55,3 +72,17 @@ The OmiseGO team answers AMAs on [Reddit](https://www.reddit.com/r/omise_go/) on
 - [#22 - April 28, 2019](https://www.reddit.com/r/omise_go/comments/bcnmud/omisego_ama_22_april_28_2019/)
 - [#23 - Hoard Exchange](https://www.reddit.com/r/omise_go/comments/bji6pt/omisego_ama_23_hoard_exchange/)
 - [#24 - AMA with with Kasima, OmiseGO CTO](https://www.reddit.com/r/omise_go/comments/c1tv6u/omisego_ama_24_with_with_kasima_omisego_cto/)
+
+## Plasma Updates
+
+The OmiseGO team is publishing bi-weekly Plasma updates where they outline their latest work. Each update will also come with a summary (with links) of the topics in the latest Plasma Implementers Call!
+
+## Integration Team Updates
+
+The OmiseGO Integration Team is publishing regular updates about the eWallet, Android and iOS SDK's, Potterhat, etc.
+
+## Monthly Roundups
+
+Each month, there is a monthly roundup of the business development updates and technical updates at OmiseGO.
+
+

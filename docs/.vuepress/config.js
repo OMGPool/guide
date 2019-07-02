@@ -5,14 +5,6 @@ module.exports = {
   themeConfig: {
     logo: '/logo.png',
     sidebar: {
-      // '/deep-dive/': [
-      //   'dex',
-      //   'ewallet',
-      //   'plasma',
-      //   'cash-in-out',
-      //   'proof-of-stake',
-      //   'roadmap',
-      // ],
       '/resources/': [
         'videos',
         'glossary',
@@ -49,7 +41,7 @@ module.exports = {
     },
     nav: [
       { text: 'Guide', link: '/get-started' },
-      { text: 'Deep Dive', link: '/deep-dive/' },
+      { text: 'Deep Dive', link: '/deep-dive' },
       {
         text: 'Resources',
         items: [

@@ -2,9 +2,9 @@
 sidebar: auto
 ---
 
-## eWallet Suite
+# eWallet Suite
 
-### Current release v1.0
+## Current release v1.0
 
 * eWallet 1.0.0 has been released (current minor: 1.1) and is open-source and publicly available, with version 2.0 [in the pipeline](https://github.com/omisego/ewallet/milestone/5) where the eWallet will be integrated with Ethereum.
 * In the current iteration, issuers can mint and send tokens within a local ledger.
@@ -12,12 +12,12 @@ sidebar: auto
 * Merchant and client side Point of Sale applications have been developed for iOS and Android
 * An Admin Panel is available for merchants
 
-### Integration Libraries
+## Integration Libraries
 
 * Demo applications are being integrated on internal testnet
 * JavaScript (chosen as the first because it's the most widely used) library is up and running.
 
-### Coming Up in v2.0
+## Coming Up in v2.0
 
 * Ethereum Integration / Integrate Potterhat into eWallet
 * Integration libraries for other languages and frameworks, starting with elixir
@@ -27,7 +27,7 @@ sidebar: auto
 * Blockchain Network Statistics
 * Advanced Filtering for transactions
 
-### Bi-weekly updates
+## Bi-weekly updates
 
 - [eWallet Update 01](https://search.omisego.network/articles/2611013-ewallet-update-01) - the "Reddit Edition: Nearly There!" edition
 - [eWallet Update 02](https://search.omisego.network/articles/2611015-ewallet-update-02) - the "Wendy, I'm home" edition
@@ -56,16 +56,16 @@ sidebar: auto
 - [Integration Team Update 25](https://search.omisego.network/articles/3029579-integration-team-update-25) - the "Si vis pacem, para bellum" edition
 - [Integration Team Update 26](https://search.omisego.network/articles/3054395-integration-team-update-26) - the "If you don't have anything, you have to act like you own everything" edition
 
-### Resources
+## Resources
 
 * OmiseGO [eWallet GitHub](https://github.com/omisego/ewallet/) repository
 * Initial [public demonstration](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/%C2%A0) of the eWallet
 * Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
 
-## Plasma
+# Plasma
 
-### Bi-weekly updates
+## Bi-weekly updates
 
 * [Plasma Production Update 01](https://search.omisego.network/articles/2611004-plasma-production-update-01)
 * [Plasma Production Update 02](https://search.omisego.network/articles/2611010-plasma-production-update-02)
@@ -90,7 +90,7 @@ sidebar: auto
 * [Plasma Production Update 21](https://search.omisego.network/articles/3042019-plasma-production-update-21)
 * [Plasma Production Update 22](https://search.omisego.network/articles/3077878-plasma-production-update-22)
 
-### Resources
+## Resources
 
 For more on Plasma, see these excellent community-produced resources :
 
@@ -106,26 +106,26 @@ For more on Plasma, see these excellent community-produced resources :
 * [An introduction to Plasma](https://medium.com/@acb_/plasma-8bba7e1b1d0f) by Alexander Butler
 
 
-## Decentralized Exchange Layer
+# Decentralized Exchange Layer
 
 OMG's DEX layer provides the back end for easy exchange between digital assets on the OMG Network.
 
-### Resources
+## Resources
 
 * [OMG DEX Update](https://blog.omisego.network/omg-dex-update-6245812a7b2d) *OmiseGO's blog post*
 * [OMG DEX Design](https://github.com/omisego/elixir-omg/blob/develop/docs/dex_design.md) *Technical documentation*
 * Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
-## Proof of Stake Consensus Mechanism
+# Proof of Stake Consensus Mechanism
 
-### Resources
+## Resources
 
 * [Proof of Stake FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
 * [Minimal Slashing Conditions](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
 * [OMG Network Validation](https://blog.omisego.network/omg-network-validation-f935523086db) blog post
 * Join the [OmiseGO Developers Program](https://developer.omisego.co/) to contribute!
 
-## Cash in/out
+# Cash in/out
 
 73% of Southeast Asia is unbanked. That means a majority don’t have access to traditional banking infrastructure such as cards, loans, etc and primarily use fiat money for everything from getting paid to buying groceries.
 
@@ -135,26 +135,26 @@ Another well-known example is the Starbucks app, although dealing with cards, it
 
 These apps all exist on a “closed loop” payment infrastructure. OmiseGO wants to open up these wallet siloes and have wallets exchange with each other. They believe this will make users happy and increase merchant volume.
 
-### What is Cash in/out?
+## What is Cash in/out?
 
 The goal with cash in and cash out touch points is to create a network of banking, hardware, and retail partners where users can deposit and withdraw their cash. The cash becomes tokenized on to their wallet application of choice, and is immediately exchangeable for other tokenized currencies and assets via the OmiseGO blockchain.
 
 With integrated merchant mobile wallets, a decentralized exchange on a blockchain, and finally cash in / cash out touch points this fulfills the final part of our mission to unbank the banked. In addition to servicing the unbanked, what this really provides is an alternative to the current banking system. A free and open financial service network to all people, whether or not they have bank accounts.
 
-### Current state
+## Current state
 
 Our ambitions are global, OmiseGO is in active discussions with business partners and unfortunately there is not much they can publicly share yet.
 
 
-## Roadmap
+# Roadmap
 
-### Official updates
+## Official updates
 
 * [OmiseGO Roadmap v.1](https://blog.omisego.network/omisego-roadmap-v-1-40bfca386e25)
 * [OmiseGO Roadmap Update (v.2)](https://blog.omisego.network/omisego-roadmap-update-94819e20ada2)
 * [State of the OMG Ecosystem](https://blog.omisego.network/state-of-the-omg-ecosystem-75260c71a053)
 
-### Tengen : the end game
+## Tengen : the end game
 
 The Tengen milestone is the "end game" milestone when the OMG network will be able to support sufficient transactions per second to compete with traditional financial services, have a decentralized exchange with cash-in/cash-out capabilities and interoperability with different blockchains. In the Tengen development phase, Tesuji will be deployed on the finished OMG network: a massively-scalable, cross-chain-compatible decentralized exchange (DEx) Plasma chain.
 

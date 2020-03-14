@@ -67,4 +67,12 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
+  plugins: [
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-4475725-9',
+      },
+    ],
+  ],
 }

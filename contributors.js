@@ -19,4 +19,9 @@ export default {
     oneliner: 'Gym gains and crypto losses',
     avatar: 'https://avatars.githubusercontent.com/Jager-Master',
   },
+  unlimited_cake: {
+    name: 'Joel Foster',
+    oneliner: 'Tech startup nerd with a social conscience',
+    avatar: 'https://avatars.githubusercontent.com/joelsfoster',
+  },
 }

@@ -1,5 +1,7 @@
 # Glossary
 
+_This section will quickly become outdated. Community contributions toward keeping this up-to-date are welcome!_
+
 ## OMG / OmiseGO / Omise
 
 
@@ -37,7 +39,7 @@ A place where users can deposit or withdraw their asset value or cash (e.g. bank
 
 ### Clearinghouse
 
-Financial institution formed to facilitate the exchange (i.e., clearance) of payments, securities, or derivatives transactions. 
+Financial institution formed to facilitate the exchange (i.e., clearance) of payments, securities, or derivatives transactions.
 
 ### Currency-agnostic asset transfer
 
@@ -65,7 +67,7 @@ First and foremost a staking token. By holding OMG tokens, users gain the right 
 
 ### Off-Chain
 
-Off-chain transactions are transactions that are handled outside of the root blockchain using methods such as Plasma or Lightning Network. Transactions off-chain are usually instantaneous, because they don't need to wait for the root chain network validation. They are usually also a lot cheaper. Off-chain transactions are to be secured by the root chain. 
+Off-chain transactions are transactions that are handled outside of the root blockchain using methods such as Plasma or Lightning Network. Transactions off-chain are usually instantaneous, because they don't need to wait for the root chain network validation. They are usually also a lot cheaper. Off-chain transactions are to be secured by the root chain.
 
 ### On-Chain
 
@@ -85,7 +87,7 @@ A point of purchase where customers execute payments for goods or services.
 
 ### Proof of Authority (PoA)
 
-Proof-of-authority (PoA) is a consensus algorithm that delivers comparatively fast transactions through a consensus mechanism based on identity as a stake. Proof of Authority (PoA) is a modified form of Proof of Stake (PoS) where instead of stake with the monetary value, a validator’s identity performs the role of stake. 
+Proof-of-authority (PoA) is a consensus algorithm that delivers comparatively fast transactions through a consensus mechanism based on identity as a stake. Proof of Authority (PoA) is a modified form of Proof of Stake (PoS) where instead of stake with the monetary value, a validator’s identity performs the role of stake.
 
 ### Proof of Work (PoW)
 
@@ -97,7 +99,7 @@ Like PoW, Proof of Stake is also a consensus algorithm to validate transactions,
 
 ### SDK
 
-Software Development Kit. The OMG open-source, white-label SDK will be free for anyone to use and will make it easy for those who need online asset exchange as part of their business to connect seamlessly to the OMG Network. The SDK allows wallet providers the flexibility to enhance, add, and customize payment solutions for many use cases. 
+Software Development Kit. The OMG open-source, white-label SDK will be free for anyone to use and will make it easy for those who need online asset exchange as part of their business to connect seamlessly to the OMG Network. The SDK allows wallet providers the flexibility to enhance, add, and customize payment solutions for many use cases.
 
 ### Settlement Proof
 
@@ -136,7 +138,7 @@ Bonding stake means you deposit some money into the network, and in some sense u
 
 ### Child chain
 
-A Plamsa chain is often referred to as a child chain. A child chain is not to be mistaken with a sidechain. The core difference is that sidechains are ultimately reliant on their own consensus mechanism for security, whereas plasma chains are backed by the security of the main chain. 
+A Plamsa chain is often referred to as a child chain. A child chain is not to be mistaken with a sidechain. The core difference is that sidechains are ultimately reliant on their own consensus mechanism for security, whereas plasma chains are backed by the security of the main chain.
 ### Exit
 
 Plasma applications make use of state commitments whenever a user wants to leave the plasma chain. We usually refer to this as “exiting” the application.
@@ -155,11 +157,11 @@ Plasma applications do a majority of their work outside of the “root chain” 
 
 ### Parent chain (or main chain / root chain)
 
-Smart contracts are created on the Ethereum main chain that act as the “root” of the Plasma child chains. 
+Smart contracts are created on the Ethereum main chain that act as the “root” of the Plasma child chains.
 
 ### Plasma
 
-Plasma is a framework for building scalable applications. 
+Plasma is a framework for building scalable applications.
 
 ### Plasma MVP
 
@@ -191,7 +193,7 @@ Because Plasma is working off-chain, there is a need to make sure that changes a
 
 ### State updates
 
-A kind of evidence that proves the current state of a chain 
+A kind of evidence that proves the current state of a chain
 
 ### Unbounding
 
@@ -234,7 +236,7 @@ Fuseki (eWallet SDK beta) was delivered in Q1 2018 and was the first step to onb
  Sente (eWallet SDK 1.0 release) means that the SDK will be considered production ready, meaning wallet providers can begin to build functional apps with it although there will be a continuation of addding features which will allow wallet providers the flexibility to enhance, add, and customize payment solutions for any number of emerging use cases.
 
 
-## Ecosystem	
+## Ecosystem
 
 
 ### Bitfish
@@ -302,7 +304,7 @@ Short for cryptocurrency, which is a digital asset designed to work as a medium 
 
 ### Bitcoin
 
-Bitcoin is one of the first forms of electronic cash, first released in 2009. 
+Bitcoin is one of the first forms of electronic cash, first released in 2009.
 
 ### Decentralized network
 
@@ -322,7 +324,7 @@ a set of data, usually a part of a block plus some extra "witness data" (eg. Mer
 
 ### Fully distributed
 
- A fully distributed system is a distributed system that has a transparent network protocol which gives all participants a high degree of confidence that all information has been made available. 
+ A fully distributed system is a distributed system that has a transparent network protocol which gives all participants a high degree of confidence that all information has been made available.
 
 ### Fungibility
 
@@ -428,7 +430,7 @@ Contract-oriented programming language for writing smart contracts. It is used f
 
 ### Unbanking the Banked
 
-The OMG Network opens  up the possibility of a decentralized financial system where being "banked" is not a requirement for world citizenship and financial freedom is not a privilege of the wealthy but a basic right available to anyone. OMG is building infrastructure that will provide unprecedented financial access and sovereignty to people that is unmatched by banks today. 
+The OMG Network opens  up the possibility of a decentralized financial system where being "banked" is not a requirement for world citizenship and financial freedom is not a privilege of the wealthy but a basic right available to anyone. OMG is building infrastructure that will provide unprecedented financial access and sovereignty to people that is unmatched by banks today.
 
 ### User custody
 

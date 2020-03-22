@@ -12,7 +12,7 @@ This guide and its content are produced and reviewed by the community, with the 
 
 ## Suggestions / Reports
 
-To report errors/inaccuracies or suggest enhancements, you may create a [Github issue](https://github.com/OMGPool/guide/issues/new), and please follow this set of recommandations :
+To report errors/inaccuracies or suggest enhancements, you may create a [Github issue](https://github.com/OMGPool/guide/issues/new), and please follow this set of recommendations:
 
 * **Use a clear and descriptive title** for the issue to identify the suggestion/report.
 * **Provide a thorough description of the suggested enhancement** or **justify the inaccuracy of the content** in as many details as possible.
@@ -28,7 +28,7 @@ Unsure where to begin contributing to the OMG Network Guide? You can start by lo
 * [Good first issue](https://github.com/OMGPool/guide/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) - issues which should only require a minimal knowledge of the project.
 * [Help wanted issues](https://github.com/OMGPool/guide/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) - issues which should be a bit more involved than `good-first-issue` issues.
 
-Still unsure where to begin? **[Let us help you !](https://t.me/joinchat/HNsNKU4uI9ZavKNgGr2HjQ)**
+Still unsure where to begin? **[Let us help you!](https://t.me/joinchat/HNsNKU4uI9ZavKNgGr2HjQ)**
 
 
 ## Sending a contribution

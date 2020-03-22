@@ -4,6 +4,8 @@ sidebar: auto
 
 # Deep Dive
 
+_This section will quickly become outdated. Community contributions toward keeping this up-to-date are welcome!_
+
 ## eWallet Suite
 
 ### Current release v1.0

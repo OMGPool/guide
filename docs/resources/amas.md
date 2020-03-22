@@ -1,6 +1,8 @@
 # AMAs
 
-The OmiseGO team answers AMAs on [Reddit]() on a weekly basis. Here are the archives, 
+_This section will quickly become outdated. Community contributions toward keeping this up-to-date are welcome!_
+
+The OmiseGO team answers AMAs on [Reddit]() on a weekly basis. Here are the archives,
 
 - [#1 - May 30, 2018](https://www.reddit.com/r/omise_go/comments/8l26cg/official_question_thread_for_omisego_ama_1/)
 - [#2 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)

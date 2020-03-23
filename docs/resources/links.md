@@ -1,14 +1,16 @@
 # Links
 
+_This section will quickly become outdated. Community contributions toward keeping this up-to-date are welcome!_
+
 ## OMG Network General
 
 * [OMG Network v0.2 (Samrong)](https://blog.omisego.network/next-station-samrong-omg-network-v0-2-83926df9ff68) announcement
 * [Block Explorer](http://quest.samrong.omg.network/) to the OMG Network v0.2 (Samrong)
 * [Block Explorer](http://quest.omg.network/) to the OMG Network v0.1 (Ari) - deprecated
 * Stack [API Specification](https://developer.omisego.co/elixir-omg/)
-* [Network Connection Details](https://github.com/omisego/dev-portal/blob/master/guides/network_endpoints.md) 
+* [Network Connection Details](https://github.com/omisego/dev-portal/blob/master/guides/network_endpoints.md)
 * [Roadmap](https://blog.omisego.network/omisego-roadmap-update-25075416d6f1)
-* [Progress tracker](https://github.com/buildOMG/tracker/projects/1) 
+* [Progress tracker](https://github.com/buildOMG/tracker/projects/1)
 * OmiseGO [website](https://omisego.network/)
 * OmiseGO [search](https://search.omisego.network)
 
@@ -118,7 +120,7 @@ The OmiseGO Integration Team is publishing regular updates about the eWallet, An
 
 ## AMAs
 
-The OmiseGO team answers AMAs (Ask Me Anything) on [Reddit](https://www.reddit.com/r/omise_go/) on a weekly basis. 
+The OmiseGO team answers AMAs (Ask Me Anything) on [Reddit](https://www.reddit.com/r/omise_go/) on a weekly basis.
 
 - [AMA #1 - May 30, 2018](https://www.reddit.com/r/omise_go/comments/8l26cg/official_question_thread_for_omisego_ama_1/)
 - [AMA #2 - October 22, 2018](https://www.reddit.com/r/omise_go/comments/9qemoy/omisego_ama_2_october_22_2018/)

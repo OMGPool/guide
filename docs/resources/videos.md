@@ -1,5 +1,7 @@
 # Videos
 
+_This section will quickly become outdated. Community contributions toward keeping this up-to-date are welcome!_
+
 ## The path to a more viable plasma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONbrhJDCpi8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -63,7 +65,7 @@ Decentralization however, is not binary, in the sense that a project is not eith
 * Rewards are proportional to stake- meaning larger stakes are not rewarded disproportionally and there exists incentive for staking regardless of initial investment.
 * Expensive hardware is not a prerequisite to validating, it is much easier to bootstrap with a small initial investment, leading to greater decentralization in the form of validator distribution.
 
-Some **drawbacks** of Proof of Stake are that validator nodes are difficult to setup, and minimum staking requirements may out-price a portion of the population, leading to incentivized custodial staking services. In order to counteract centralization caused by this minimum fee, threshhold staking pools have been proposed, allowing people to come together and meet the minimum requirements via their accumulative total investment. The main **challenges faced in setting up a validator node**are:
+Some **drawbacks** of Proof of Stake are that validator nodes are difficult to setup, and minimum staking requirements may out-price a portion of the population, leading to incentivized custodial staking services. In order to counteract centralization caused by this minimum fee, threshhold staking pools have been proposed, allowing people to come together and meet the minimum requirements via their accumulative total investment. The main **challenges faced in setting up a validator node** are:
 
 * Private key management, as cold storage is not a possibility, this can be alleviated by usage of a hardware wallet within a secure facility.
 * Constant network access is required, and validators will often be penalized when they do not keep \(close to\) 100% up time.

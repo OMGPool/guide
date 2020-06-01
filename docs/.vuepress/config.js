@@ -1,6 +1,6 @@
 module.exports = {
   title: 'OMG Network Guide',
-  description: 'A scaling solution for finance on Ethereum',
+  description: 'An Ethereum scaling solution',
   base: '/guide/',
   themeConfig: {
     logo: '/logo.png',

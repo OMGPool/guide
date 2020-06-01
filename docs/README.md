@@ -1,12 +1,12 @@
 ---
 title: About
 home: true
-heroText: OMG Network
+heroText: The OMG Network
 actionText: Get Started →
 actionLink: /get-started.html
 ---
 
-This guide is an extensive non-technical introduction to the [OMG Network](https://omisego.network/), and is maintained by [OMGPool](https://omgpool.org/) and the community.
+This guide is an extensive non-technical introduction to the [OMG Network](https://omg.network/), and is maintained by [OMGPool](https://omgpool.org/) and the community.
 
 <div class="features">
   <div class="feature">
